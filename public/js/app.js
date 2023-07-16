@@ -1,4 +1,4 @@
-console.log('This is from the client side!')
+// console.log('This is from the client side!')
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
